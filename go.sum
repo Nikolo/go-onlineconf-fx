@@ -1,5 +1,9 @@
 github.com/Nikolo/go-onlineconf v0.0.2 h1:bK2Ein7/mC60+xFQ3QuEIR/tTmpAh71FpYjz3q3v+yQ=
 github.com/Nikolo/go-onlineconf v0.0.2/go.mod h1:G6XfmJ7nVmYY8Ui83Db0w+xsK3oC9iHh/y3MqBeQuuI=
+github.com/Nikolo/go-onlineconf v0.0.3 h1:xiid3vGVChqyB0cOKTLigcKIndSRdBMK6Ehavuyy36c=
+github.com/Nikolo/go-onlineconf v0.0.3/go.mod h1:G6XfmJ7nVmYY8Ui83Db0w+xsK3oC9iHh/y3MqBeQuuI=
+github.com/Nikolo/go-onlineconf v0.9.0 h1:tXWDsnE2KitoYL9ODuzSRMGnMI/cBH2Sm4WGgxXWPqw=
+github.com/Nikolo/go-onlineconf v0.9.0/go.mod h1:G6XfmJ7nVmYY8Ui83Db0w+xsK3oC9iHh/y3MqBeQuuI=
 github.com/Pallinder/go-randomdata v1.1.0 h1:gUubB1IEUliFmzjqjhf+bgkg1o6uoFIkRsP3VrhEcx8=
 github.com/Pallinder/go-randomdata v1.1.0/go.mod h1:yHmJgulpD2Nfrm0cR9tI/+oAgRqCQQixsA8HyRZfV9Y=
 github.com/benbjohnson/clock v1.3.0 h1:ip6w0uFQkncKQ979AypyG0ER7mqUSBdKLOgAle/AT8A=

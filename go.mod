@@ -3,7 +3,7 @@ module github.com/Nikolo/go-onlineconf-fx
 go 1.21.5
 
 require (
-	github.com/Nikolo/go-onlineconf v0.0.2
+	github.com/Nikolo/go-onlineconf v0.9.0
 	go.uber.org/fx v1.20.1
 )
 

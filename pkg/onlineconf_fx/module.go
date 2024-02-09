@@ -15,8 +15,8 @@ func Module(name string) fx.Option {
 			func(ls fx.Lifecycle, c onlineconfInterface.Instance) {
 				ls.Append(
 					fx.Hook{
-						OnStart: func(ctx context.Context) error {
-							return c.StartWatcher(ctx)
+						OnStart: func(_ context.Context) error {
+							return c.StartWatcher(context.Background())
 						},
 						OnStop: func(_ context.Context) error { return c.StopWatcher() },
 					},
